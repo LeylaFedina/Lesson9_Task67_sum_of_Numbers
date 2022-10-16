@@ -1,0 +1,5 @@
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\9 Lesson 13.10.2022\task67\obj\Debug\net6.0\task67.csproj.AssemblyReference.cache
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\9 Lesson 13.10.2022\task67\obj\Debug\net6.0\task67.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\9 Lesson 13.10.2022\task67\obj\Debug\net6.0\task67.AssemblyInfoInputs.cache
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\9 Lesson 13.10.2022\task67\obj\Debug\net6.0\task67.AssemblyInfo.cs
+C:\Users\vilsy\Desktop\Geekbrains\Знакомство с языками программирования\9 Lesson 13.10.2022\task67\obj\Debug\net6.0\task67.csproj.CoreCompileInputs.cache
